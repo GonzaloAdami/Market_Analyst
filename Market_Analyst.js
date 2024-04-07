@@ -1,8 +1,21 @@
 // ------------ AUTHOR: GONZALO EZEQUIEL ADAMI ---------
 // @Copyrigth GONZALO EZEQUIEL ADAMI 2024 
 // ----------------------------------------------------
-
-
+// This code is protected by copyright and is the exclusive property of Gonzalo Ezequiel Adami. 
+// All rights are reserved. This code may not be reproduced, modified, distributed, or used in any 
+// way without the express written permission of the author.
+//
+// For those wishing to utilize this code, a limited, revocable license is granted subject to the 
+// terms and conditions of the MIT License. By using this code, you agree to comply with said license 
+// and acknowledge the author's copyright.
+// 
+// Any unauthorized disclosure, use, or distribution of this code may be subject to legal action 
+// and civil liabilities.
+//
+// For further information on proper usage of this code and obtaining additional permissions, 
+// please contact the author at the following email address: [gonzaloadamie@gmail.com].
+//
+// Thank you for respecting the copyright and for your interest in this code!
 
 // -----------------------------------------------   CLASSES   ---------------------------------------------------
 
